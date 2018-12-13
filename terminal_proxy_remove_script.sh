@@ -8,4 +8,4 @@ unset HTTPS_PROXY
 unset FTP_PROXY
 unset SOCKS_PROXY
 unset ALL_PROXY
-# git config --global --unset http.proxy
+# git config --global --unset http.proxy   (if you wanna remove the git proxy)
